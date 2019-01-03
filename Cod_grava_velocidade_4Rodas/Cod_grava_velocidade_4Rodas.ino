@@ -1,7 +1,7 @@
 /*
  * 
-   AUTOR: MAYRON REIS LAVERDA RIBEIRO
-   ESTUDANTE ENGENHARIA DE COMPUTAÇÃO IFMG - CAMPUS BAMBUÍ
+   AUTOR: MAYRON REIS LACERDA RIBEIRO
+   ESTUDANTE DE ENGENHARIA DE COMPUTAÇÃO IFMG - CAMPUS BAMBUÍ
 
    TRABALHO DE CONCLUSÃO DE CURSO - PARTE 3 DE XX
    ==================================================================================================

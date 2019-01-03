@@ -44,7 +44,6 @@ const float raio_dianteiras = 1.12;
 float VA_dianteira_esquerda, VA_dianteira_direita, VA_traseira_esquerda, VA_traseira_direita;
 float DT_dianteira_esquerda, DT_dianteira_direita, DT_traseira_esquerda, DT_traseira_direita;
 float VL_dianteira_esquerda, VL_dianteira_direita, VL_traseira_esquerda, VL_traseira_direita;
-//float T_dianteira_esquerda, T_dianteira_direita, T_traseira_esquerda, T_traseira_direita;
 float TA_dianteira_esquerda = 0, TA_dianteira_direita = 0, TA_traseira_esquerda = 0, TA_traseira_direita = 0;
 float tempo;
 
